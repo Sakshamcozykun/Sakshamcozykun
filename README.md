@@ -46,7 +46,8 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakshamcozykun
+&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
 
 <p>
