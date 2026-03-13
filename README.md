@@ -46,14 +46,13 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakshamcozykun
-&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakshamcozykun&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en" alt="github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakshamcozykun&show_icons=true&locale=en" alt="github stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&" alt="github streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshamcozykun" alt="github streak" />
 </p>
