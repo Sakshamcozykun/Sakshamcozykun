@@ -3,15 +3,15 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning and improving my skills in **Data Structures, Algorithms, Web Development, and Programming**
-- 💻 I enjoy building projects and solving coding problems
-- 🚀 Interested in **C++, Python, Web Development, and Backend Development**
-- 📫 Reach me on LinkedIn: [Saksham Gupta](https://www.linkedin.com/in/saksham-gupta-16a14b364/)
+###  About Me
+-  I’m currently learning and improving my skills in **Data Structures, Algorithms, Web Development, and Programming**
+-  I enjoy building projects and solving coding problems
+- Interested in **C++, Python, Web Development, and Backend Development**
+-  Reach me on LinkedIn: [Saksham Gupta](https://www.linkedin.com/in/saksham-gupta-16a14b364/)
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/saksham-gupta-16a14b364/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 <p align="left"> 
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakshamcozykun&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
