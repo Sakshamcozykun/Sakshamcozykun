@@ -1,0 +1,32 @@
+name: update-chakra-map
+on:
+  schedule:
+    - cron: '0 */6 * * *'        # every 6 hours
+  workflow_dispatch:             # Actions tab > update-chakra-map > Run workflow
+  push:
+    paths: ['scripts/chakra-map.mjs', 'scripts/lib.mjs']
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Draw the chakra map from real contribution data
+        env:
+          # GH_PAT (optional secret, scope read:user) also counts PRIVATE contributions.
+          # Without it the built-in token is used, which still reads your public calendar.
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+          CI: 'true'
+        run: node scripts/chakra-map.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "chakra-bot"
+          git config user.email "chakra-bot@users.noreply.github.com"
+          git add assets/chakra-map.svg
+          git diff --cached --quiet && echo "no change" && exit 0
+          git commit -m "chakra map: sync [skip ci]"
+          git push
