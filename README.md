@@ -1,11 +1,3 @@
-<!--
-  EDIT-ME MAP
-  - Replace the GIF:   drop any GIF at assets/gif/current.gif and push (the Action builds assets/gif/framed.svg)
-  - Projects:          section 02. Each project is one block; 3 places hold its link (search for YOUR_)
-  - Placeholders:      search this file for YOUR_
-  - Pixel art:         assets/*.svg are plain and editable; regenerate with `node scripts/build-assets.mjs`
--->
-
 <div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="SAKSHAM.EXE: DESIGN / DEVELOP / EXPLORE / REPEAT. A small pixel scene of a developer at a CRT workstation while a forest slowly takes over.">
@@ -45,16 +37,16 @@
 <br>
 
 <p>
-<a href="YOUR_TILES_REPO"><img src="assets/cartridges/tiles.svg" width="49%" alt="Cartridge: Tiles Privacy. Click to open the repository."></a>
-<a href="YOUR_LAN_TRANSFER_REPO"><img src="assets/cartridges/lan-transfer.svg" width="49%" alt="Cartridge: LAN Transfer Buddy. Click to open the repository."></a>
-<a href="YOUR_FOOD_DELIVERY_REPO"><img src="assets/cartridges/food-delivery.svg" width="49%" alt="Cartridge: Food Delivery System. Click to open the repository."></a>
-<a href="YOUR_SAKSHAMOS_REPO"><img src="assets/cartridges/sakshamos.svg" width="49%" alt="Cartridge: SakshamOS. Click to open the repository."></a>
+<a href="https://github.com/Sakshamcozykun/ShareSplit"><img src="assets/cartridges/tiles.svg" width="49%" alt="Cartridge: Tiles Privacy. Click to open the repository."></a>
+<a href="https://github.com/Sakshamcozykun/Kamui"><img src="assets/cartridges/lan-transfer.svg" width="49%" alt="Cartridge: LAN Transfer Buddy. Click to open the repository."></a>
+<a href="https://github.com/Sakshamcozykun/GoogleClasroom-Bulk-downloader"><img src="assets/cartridges/food-delivery.svg" width="49%" alt="Cartridge: Food Delivery System. Click to open the repository."></a>
+<a href="https://github.com/Sakshamcozykun/rootquest"><img src="assets/cartridges/sakshamos.svg" width="49%" alt="Cartridge: SakshamOS. Click to open the repository."></a>
 </p>
 
-**[Tiles Privacy](YOUR_TILES_REPO)** · privacy / local-first · [VIEW REPOSITORY →](YOUR_TILES_REPO)<br>
-**[LAN Transfer Buddy](YOUR_LAN_TRANSFER_REPO)** · move files across your local network · [VIEW REPOSITORY →](YOUR_LAN_TRANSFER_REPO)<br>
-**[Food Delivery System](YOUR_FOOD_DELIVERY_REPO)** · ordering + delivery, end to end · [VIEW REPOSITORY →](YOUR_FOOD_DELIVERY_REPO)<br>
-**[SakshamOS](YOUR_SAKSHAMOS_REPO)** · experimental software, built for fun · [VIEW REPOSITORY →](YOUR_SAKSHAMOS_REPO)
+**[Tiles Privacy](https://github.com/Sakshamcozykun/ShareSplit)** · privacy / local-first · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/ShareSplit)<br>
+**[LAN Transfer Buddy](https://github.com/Sakshamcozykun/Kamui)** · move files across your local network · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/Kamui)<br>
+**[Food Delivery System](https://github.com/Sakshamcozykun/GoogleClasroom-Bulk-downloader)** · ordering + delivery, end to end · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/GoogleClasroom-Bulk-downloader)<br>
+**[SakshamOS](https://github.com/Sakshamcozykun/rootquest)** · experimental software, built for fun · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/rootquest)
 
 <br>
 
@@ -76,7 +68,7 @@
 
 <p align="center">
 <img src="assets/chakra-map.svg" width="84%" alt="Chakra log: GitHub contribution activity for the last year, drawn as pixels."><br>
-<sub>Redrawn every 6 hours by a GitHub Action from the contribution calendar. The corner of the image says SAMPLE DATA until the first successful run.</sub>
+<sub>Redrawn every 6 hours by a GitHub Action from the contribution calendar.</sub>
 </p>
 
 <br>
@@ -85,7 +77,7 @@
 
 <br>
 
-[LinkedIn](YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL) · [Portfolio](YOUR_PORTFOLIO) · [OSDC](YOUR_OSDC_ORG)
+[GitHub](https://github.com/Sakshamcozykun) · [LinkedIn](https://www.linkedin.com/in/saksham-gupta) · [Email](mailto:sakshamgupta.cozykun@gmail.com)
 
 ```text
 SYSTEM STATUS
