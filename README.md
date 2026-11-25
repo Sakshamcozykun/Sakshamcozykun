@@ -43,10 +43,10 @@
 <a href="https://github.com/Sakshamcozykun/rootquest"><img src="assets/cartridges/sakshamos.svg" width="49%" alt="Cartridge: SakshamOS. Click to open the repository."></a>
 </p>
 
-**[Tiles Privacy](https://github.com/Sakshamcozykun/ShareSplit)** · privacy / local-first · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/ShareSplit)<br>
-**[LAN Transfer Buddy](https://github.com/Sakshamcozykun/Kamui)** · move files across your local network · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/Kamui)<br>
-**[Food Delivery System](https://github.com/Sakshamcozykun/GoogleClasroom-Bulk-downloader)** · ordering + delivery, end to end · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/GoogleClasroom-Bulk-downloader)<br>
-**[SakshamOS](https://github.com/Sakshamcozykun/rootquest)** · experimental software, built for fun · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/rootquest)
+**[ShareSplit](https://github.com/Sakshamcozykun/ShareSplit)** · expense sharing · groups · UPI settlements · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/ShareSplit)<br>
+**[Kamui](https://github.com/Sakshamcozykun/Kamui)** · Go CLI · movies, music, books in terminal · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/Kamui)<br>
+**[Google Classroom Bulk Downloader](https://github.com/Sakshamcozykun/GoogleClasroom-Bulk-downloader)** · Chrome extension · bulk download attachments · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/GoogleClasroom-Bulk-downloader)<br>
+**[RootQuest](https://github.com/Sakshamcozykun/rootquest)** · CTF platform · per-user dynamic flags · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/rootquest)
 
 <br>
 
