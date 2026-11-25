@@ -36,12 +36,6 @@
 
 <br>
 
-<p>
-<a href="https://github.com/Sakshamcozykun/ShareSplit"><img src="assets/cartridges/tiles.svg" width="49%" alt="Cartridge: ShareSplit. Click to open the repository."></a>
-<a href="https://github.com/Sakshamcozykun/Kamui"><img src="assets/cartridges/lan-transfer.svg" width="49%" alt="Cartridge: Kamui. Click to open the repository."></a>
-<a href="https://github.com/Sakshamcozykun/GoogleClasroom-Bulk-downloader"><img src="assets/cartridges/food-delivery.svg" width="49%" alt="Cartridge: Google Classroom Bulk Downloader. Click to open the repository."></a>
-<a href="https://github.com/Sakshamcozykun/rootquest"><img src="assets/cartridges/sakshamos.svg" width="49%" alt="Cartridge: RootQuest. Click to open the repository."></a>
-</p>
 
 **[ShareSplit](https://github.com/Sakshamcozykun/ShareSplit)** · expense sharing · groups · UPI settlements · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/ShareSplit)<br>
 **[Kamui](https://github.com/Sakshamcozykun/Kamui)** · Go CLI · movies, music, books in terminal · [VIEW REPOSITORY →](https://github.com/Sakshamcozykun/Kamui)<br>
