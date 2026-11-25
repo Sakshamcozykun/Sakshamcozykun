@@ -67,7 +67,7 @@
 <br>
 
 <p align="center">
-<img src="assets/chakra-map.svg" width="84%" alt="Chakra log: GitHub contribution activity for the last year, drawn as pixels."><br>
+<a href="https://github.com/Sakshamcozykun"><img src="assets/chakra-map.svg" width="84%" alt="Chakra log: GitHub contribution activity for the last year, drawn as pixels."></a><br>
 <sub>Redrawn every 6 hours by a GitHub Action from the contribution calendar.</sub>
 </p>
 
